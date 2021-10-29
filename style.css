@@ -1,0 +1,48 @@
+h1 {
+color: deeppink; 
+}
+html {
+    text-align: center;
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    position: fixed;
+    top: 0px;
+    cursor: pointer;
+    color: black;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 250px;
+    width: 100%;
+}
+#home {
+    background-color: plum;
+}
+p {
+    font-size: 20px;
+}
+html {
+    scroll-behavior: smooth;
+}
+#teertha {
+    background: linear-gradient(aqua 50%, pink 100%);
+    font-size: 20px;
+}
+#chini {
+    background: linear-gradient(orange 50%, yellow 100%);
+        font-size: 20px;
+}
+#Darshi {
+    background: linear-gradient(wheat 50%, red 100%);
+        font-size: 20px;
+}
+#fam {
+background: linear-gradient(plum 50%, blue 100%)
+}
+img {
+    width: 300px;
+}
+.v {
+    color: palevioletred;
+}
